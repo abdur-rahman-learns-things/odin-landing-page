@@ -12,6 +12,7 @@
   3. Image Showcase
   4. Testimonial
   5. Call to Action
+  6. Footer
 
 ## Version 1.01
 
