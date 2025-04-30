@@ -137,3 +137,46 @@ body {
 .image-item .description {
     color: #4b5763;
 }
+
+.testimonial {
+    background-color: #e5e7eb;
+    height: 432px;
+}
+
+.testimonial .container {
+    width: 1080px;
+    margin: auto;
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.testimonial .quote {
+    color: #1f2937;
+    text-align: justify;
+    font-size: 36px;
+    font-weight:300;
+    font-style: italic;
+    width: 824px;
+}
+
+.testimonial .source {
+    align-self: center;
+    display: flex;
+    justify-content: flex-end;
+    font-size: large;
+    font-weight: bold;
+    color: #1f2937;
+    width: 824px;
+}
+
+.call-to-action {
+    background-color: #ffffff;
+}
+
+.footer {
+    background-color: #1f2937;
+}
