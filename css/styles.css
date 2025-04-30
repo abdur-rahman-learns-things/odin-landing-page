@@ -52,3 +52,45 @@ body {
     color: #e5e7eb;
     font-size: 18px;
 }
+
+.hero-section {
+    display: flex;
+    flex-direction: row;
+    margin: auto 0px;
+    gap: 16px;
+    justify-content: space-between;
+}
+
+.hero-section .left-side {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    /* gap: 8px; */
+    justify-content: space-between;
+}
+
+.left-side .main-text {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.left-side .secondary-text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.left-side .sign-up {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 8px;
+    font-size: large;
+    font-weight: 900;
+    margin-top: 8px;
+    padding: 8px 28px;
+    align-self: flex-start;
+}
+
+.right-side {
+    display: flex;
+}
