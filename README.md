@@ -6,7 +6,7 @@
 
 - Basic FlexBox Layout Page
 
-- Will contain:
+- Contains:
   1. Header
   2. Hero Section
   3. Image Showcase
@@ -21,12 +21,10 @@
 - Demonstrate basic real-world applicable **FlexBox** knowledge
 - Feel ready to delve into responsive and positionally dynamic design
 
-<!-- ### Actual Outcomes
+### Actual Outcomes
 
-- Learnt a lot about using git and GitHub
-  - Becoming slowly acclimated to the three-step publishing process
-- Learnt the value of checking built applications in actual action in addition to testing them out locally
-- Realized importance of small patches and minor bug fixes in the overall journey of a project -->
+- Conceptualization and execution can vary wildly compared to the imagination
+- FlexBox is a lifesaver in many difficult-to-handle scenarios
 
 <!-- ## Version 1.02 -->
 <!--  -->
@@ -43,12 +41,15 @@
 <!-- - Learnt how performing just a few visual tweaks can -->
   <!-- - Greatly enhance the overall look and feel of a website -->
 <!--  -->
-<!-- # TO-DOs: -->
-<!--  -->
-<!-- - [x] Center Content -->
-<!-- - [ ] Try out alternative **Horizontal Card Layout** -->
-<!-- - [x] **Match content width** to image width on each page -->
-<!-- - [ ] Move Homepage Link to **top** of page and convert to a **button** -->
-<!-- - [ ] Improve **color scheme** for greater legibility and attractiveness -->
-<!-- - [ ] Add **decorative images** to left and right sides of Home Page -->
-<!-- - [ ] Fix headings and Source Boxs' Center Alignment -->
+
+# TO-DOs:
+
+- [ ] Optimize HTML
+  - [ ] Delete redundant nesting elements
+- [ ] Optimize CSS
+  - [ ] Use FlexBox to a larger extent compared to vanilla CSS
+  - [ ] Add growth and shrink properties to make the design responsive
+- [ ] Customize and personalize the project
+  - [ ] Come up with idea to showcase
+  - [ ] Gather information, resources and images to be used in V1.02
+  - [ ] Implement V1.02
