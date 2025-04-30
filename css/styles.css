@@ -94,3 +94,46 @@ body {
 .right-side {
     display: flex;
 }
+
+.image-showcase {
+    background-color: #ffffff;
+    height: 432px;
+}
+
+.image-showcase .container {
+    width: 1080px;
+    margin: auto;
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image-showcase .showcase-title {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+    width: fit-content;
+    align-self: center;
+    margin-bottom: 32px;
+}
+
+.image-showcase .img-items {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.img-items .image-item {
+    width: 170px;
+    text-align: center;
+}
+
+.image-item img {
+    border: solid 3px #3882f6;
+    border-radius: 10px;
+}
+
+.image-item .description {
+    color: #4b5763;
+}
