@@ -26,21 +26,34 @@
 - Conceptualization and execution can vary wildly compared to the imagination
 - FlexBox is a lifesaver in many difficult-to-handle scenarios
 
-<!-- ## Version 1.02 -->
-<!--  -->
-<!-- ### Anticipated Outcomes -->
-<!--  -->
-<!-- - Learn how to integrate CSS styling into a web page -->
-<!-- - Find and settle on a design language -->
-<!-- - Escape CSS tutorial Hell -->
-<!--  -->
-<!-- ### Actual Outcomes -->
-<!--  -->
-<!-- - Learnt a lot about perseverance and trial-and-error -->
-<!-- - Learnt to take support from Chrome DevTools to visually confirm changes -->
-<!-- - Learnt how performing just a few visual tweaks can -->
-  <!-- - Greatly enhance the overall look and feel of a website -->
-<!--  -->
+## Version 1.02
+
+### Anticipated Outcomes
+
+- Learn how to craft a website's visual design
+  - Color Palette
+  - Fonts
+  - Text Decorations
+- Learn how to populate the website with content
+- Learn how to find, link and credit media resources from external sources
+
+### Actual Outcomes
+
+- Learnt how useful premade color palettes can be
+- Learnt the value of experimenting with neighboring hex codes to get the perfect shade
+- Learnt the use of the `<br>` element
+- Learnt how to create jump links to different sections of the website using `anchors <a>` and `id="#example-section"` attributes
+- Learnt how to say more with less for feature illustration descriptions
+- Learnt to crop an image into a circular shape using GIMP (GNU Image Manipulation Program)
+- Learnt the value of Unsplash and free artwork/designs
+
+# Credits
+
+Header Logo Image: [Unsplash - Europeana](https://unsplash.com/photos/a-piece-of-paper-with-a-red-circle-on-top-of-it-GwGZ4qb9zUQ)
+
+Founder Image: [abdur-rahman-learns-things](https://github.com/abdur-rahman-learns-things)
+
+Feature Showcase Images: [Unsplash - MOMO Studio](https://unsplash.com/@momostudioofficial/illustrations)
 
 # TO-DOs:
 
@@ -49,7 +62,7 @@
 - [ ] Optimize CSS
   - [ ] Use FlexBox to a larger extent compared to vanilla CSS
   - [ ] Add growth and shrink properties to make the design responsive
-- [ ] Customize and personalize the project
-  - [ ] Come up with idea to showcase
-  - [ ] Gather information, resources and images to be used in V1.02
-  - [ ] Implement V1.02
+- [x] Customize and personalize the project
+  - [x] Come up with idea to showcase
+  - [x] Gather information, resources and images to be used in V1.02
+  - [x] Implement V1.02
